@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <title>W3.CSS Template</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {font-family: "Lato", sans-serif; /* Added missing semicolon */
+          color: black;
+          text-align: left;
+        }
+        .manss {
+          color: black;
+          text-align: left;
+        }
+        .pad {
+        padding: 25px
+        }
+        .pad2 {
+        padding: 40px
+        }
+        h2 {
+            padding-left: 35px;
+            color: white;
+            background-color: #808080;
+          margin-top: 20px;
+        }
+
+    </style>
+    </head>
+    <body>
+
+    <!-- Navbar -->
+    <div class="w3-top" id="choss">
+      <div class="w3-bar w3-black w3-card">
+        <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+        <a href="#" class="w3-bar-item w3-button w3-padding-large">Sākums</a>
+
+        <div class="w3-dropdown-hover w3-hide-small">
+          <button class="w3-padding-large w3-button" title="More">Attēlu apstrāde <i class="fa fa-caret-down"></i></button>     
+          <div class="w3-dropdown-content w3-bar-block w3-card-4">
+            <a href="#Rastrgr" class="w3-bar-item w3-button">Rastrgrafika</a>
+            <a href="#Vektorgr" class="w3-bar-item w3-button">Vektorgrafika</a>
+            <a href="#Montaza" class="w3-bar-item w3-button">Video montāža</a>
+          </div>
+        </div>
+
+        <a href="#Tekstaapstr" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Teksta apstrāde</a>
+        <a href="#Izklajlap" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Izklājlapas</a>
+        <a href="#Programm" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Programmēšana</a>
+          <a href="https://9bd3192d-b812-4935-8eb9-1c17a0528a4b-00-rzxfusf8y6fk.worf.replit.dev/otrais.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="_self">Otrais</a>
+          
+        <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+      </div>
+    </div>
+
+    <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+    <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+    <a href="#Atteluapstr" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Attēlu apstrāde</a>
+      <a href="#Tekstaapstr" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Teksta apstrāde</a>
+      <a href="#Izklajlap" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Izklājlapas</a>
+      <a href="#Programm" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Programmēšana</a>
+         <a href="https://9bd3192d-b812-4935-8eb9-1c17a0528a4b-00-rzxfusf8y6fk.worf.replit.dev/otrais.html" class="w3-bar-item w3-button w3-padding-large" target="_self">Otrais</a>
+    </div>
+
+    <!-- Page content -->
+    <div class="w3-content" style="max-width:2000px;margin-top:46px">
+     <!-- The Band Section -->
+      <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+    <div class="manss">
+    <h2 class="w3-wide">Mans datorikas portfolio</h2>
+    <p class="w3-opacity"><i>Tomass Andersons</i></p>
+    <div class="pad" id="Atteluapstr">
+
+    <h2>Attēlu apstrāde</h2>
+
+    <div class="pad2" id="Rastrgr">
+    <h3>Rastrgrafika</h3>
+    <ul>
+    <li>GIMP izmantošana</li>
+    <img src="images/banner.gif" alt="animācija" style="width: 95%">
+    </ul>
+    </div>
+
+    <div class="pad2" id="Vektorgr">
+    <h3>Vektorgrafika</h3>
+    <ul>
+    <li>Inkscape izmantošana</li>
+    <li>3d modelēsana Tinkercadā</li>
+    </ul>
+    </div>
+
+    <div class="pad2" id="Montaza">
+    <h3>Video montāža</h3>
+        <video width=95% controls>
+          <source src="images/Video_Andersons.mov" type="video/mp4">
+          <source src="movie.ogg" type="video/ogg">
+          Your browser does not support the video tag.
+        </video>
+    </div>
+
+    </div>
+    <div class="pad" id="Tekstaapstr">
+    <h2>Teksta apstrāde</h2>
+    <ul>
+    <li>Word izmantošana</li>
+    </ul>
+    </div>
+    <div class="pad" id="Izklajlap">
+    <h2>Izklājlapas</h2>
+    <ul>
+    <li>Excel izmantošana</li>
+    <img src="images/excelss.PNG" alt="excel piemērs" style="width: 95%">
+    </ul>
+    </div>
+    <div class="pad" id="Programm">
+    <h2>Programmēšana</h2>
+    <ul>
+    <li>vēl mācos html, js, css...</li>
+    </ul>
+    </div>
+
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    <script>
+
+
+    // Used to toggle the menu on small screens when clicking on the menu button
+    function myFunction() {
+      var x = document.getElementById("navDemo");
+      if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+      } else { 
+        x.className = x.className.replace(" w3-show", "");
+      }
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    var modal = document.getElementById('ticketModal');
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+    </script>
+
+    </body>
+    </html>
