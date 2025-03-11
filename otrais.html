@@ -1,35 +1,59 @@
-      <!DOCTYPE html>
-      <!--
-      Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-      Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this template
-      -->
-      <html>
-          <head>
-              <title>Datorikas portfolio</title>
-              <meta charset="UTF-8">
-              <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <style>
-            a:link, a:visited {
-              background-color: darkgrey;
-              color: white;
-              padding: 14px 25px;
-              text-align: center;
-              text-decoration: none;
-              display: inline-block;
-            }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Datorikas portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {font-family: "Lato", sans-serif; color: black; text-align: left;}
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="w3-top">
+        <div class="w3-bar w3-black w3-card">
+            <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu">
+                <i class="fa fa-bars"></i>
+            </a>
+            <a href="index.html" class="w3-bar-item w3-button w3-padding-large">Sākums</a>
+            <div class="w3-dropdown-hover w3-hide-small">
+                <button class="w3-padding-large w3-button" title="More">Attēlu apstrāde <i class="fa fa-caret-down"></i></button>     
+                <div class="w3-dropdown-content w3-bar-block w3-card-4">
+                    <a href="index.html#Rastrgr" class="w3-bar-item w3-button">Rastrgrafika</a>
+                    <a href="index.html#Vektorgr" class="w3-bar-item w3-button">Vektorgrafika</a>
+                    <a href="index.html#Montaza" class="w3-bar-item w3-button">Video montāža</a>
+                </div>
+            </div>
+            <a href="index.html#Tekstaapstr" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Teksta apstrāde</a>
+            <a href="index.html#Izklajlap" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Izklājlapas</a>
+            <a href="index.html#Programm" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Programmēšana</a>
+            <a href="otrais.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="_self">Otrais</a>
+        </div>
+    </div>
 
-            a:hover, a:active {
-              background-color: grey;
-            }
-            </style>
-          </head>
-          <body>
-              <h1>Kā samazināt risku zaudēt datus</h1>
-      <h2>Visu saglabā un izmanto autosave opciju</h2>
-      <h3>- ik pēc 30 min būtu labi visu saglabāt</h3>
+    <div class="w3-content" style="max-width:2000px;margin-top:46px">
+        <div class="w3-container w3-padding-64">
+            <h1>Kā samazināt risku zaudēt datus</h1>
+            <h2>Visu saglabā un izmanto autosave opciju</h2>
+            <h3>- ik pēc 30 min būtu labi visu saglabāt</h3>
+            <img src="images/banner.gif" alt="animācija" style="width: 45%">
+            <br>
+            <a href="index.html" class="w3-bar-item w3-button w3-padding-large">BACK</a>
+        </div>
+    </div>
 
-      <img src="images/banner.gif" alt="animācija" style="width: 45%">
-      <br>
-            <a href="index.html" target="_self">BACK</a>
-          </body>
-      </html>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("navDemo");
+            if (x.className.indexOf("w3-show") == -1) {
+                x.className += " w3-show";
+            } else { 
+                x.className = x.className.replace(" w3-show", "");
+            }
+        }
+    </script>
+</body>
+</html>
