@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170.95258mm"
+   height="170.94707mm"
+   viewBox="0 0 170.95258 170.94707"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.56276478"
+     inkscape:cx="192.79814"
+     inkscape:cy="267.42967"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect33"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect19"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <rect
+       x="128.52235"
+       y="159.96931"
+       width="257.04471"
+       height="153.13301"
+       id="rect10" />
+    <rect
+       x="150.3985"
+       y="309.00055"
+       width="13.672591"
+       height="76.566505"
+       id="rect9" />
+    <rect
+       x="151.76576"
+       y="313.10233"
+       width="84.770058"
+       height="128.52235"
+       id="rect8" />
+    <rect
+       x="146.29672"
+       y="303.53152"
+       width="407.44321"
+       height="71.097473"
+       id="rect5" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         style="display:none;fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         d="m 80.660904,233.69304 c -0.175371,-42.26628 2.104467,-54.62484 2.104467,-54.62484 l 3.33207,54.62484 z"
+         id="path10"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="lpe_path-effect10"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         class="powerclip"
+         d="M 39.495739,96.652874 H 163.08648 V 220.24361 H 39.495739 Z M 80.660904,233.69304 h 5.436537 l -3.33207,-54.62484 c 0,0 -2.279838,12.35856 -2.104467,54.62484 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19">
+      <path
+         style="display:none;fill:#000000;fill-opacity:1;stroke-width:0.213151"
+         d="m 76.256428,236.58709 5.861719,-0.46367 c 0,0 -16.119726,-117.77029 -5.861719,0.46367 z"
+         id="path19" />
+      <path
+         id="lpe_path-effect19"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.213151"
+         class="powerclip"
+         d="M 39.495739,62.39507 H 163.08648 V 220.24361 H 39.495739 Z m 36.760689,174.19202 5.861719,-0.46367 c 0,0 -16.119726,-117.77029 -5.861719,0.46367 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32">
+      <g
+         id="g33"
+         style="display:none">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           d="m 100.92936,234.41656 c 3.1352,-16.76126 6.2704,-33.52253 9.4056,-50.28379 -0.39997,17.67436 2.04343,37.71747 -3.61754,51.00729 -26.059857,-150.681622 -5.78806,-0.7235 -5.78806,-0.7235 z"
+           id="path32"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.342836"
+           d="m 114.2803,227.43419 -7.20114,1.55607 c 0,0 54.50271,-141.607242 7.20114,-1.55607 z"
+           id="path33" />
+      </g>
+      <path
+         id="lpe_path-effect33"
+         class="powerclip"
+         d="M 39.495739,62.39507 H 163.08648 V 220.24361 H 39.495739 Z m 61.433621,172.02149 c 3.1352,-16.76126 6.2704,-33.52253 9.4056,-50.28379 -0.39997,17.67436 2.04343,37.71747 -3.61754,51.00729 -26.059857,-150.681622 -5.78806,-0.7235 -5.78806,-0.7235 z m 13.35094,-6.98237 c 47.30157,-140.051172 -7.20114,1.55607 -7.20114,1.55607 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32-3">
+      <g
+         id="g33-7"
+         style="display:none">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           d="m 100.92936,234.41656 c 3.1352,-16.76126 6.2704,-33.52253 9.4056,-50.28379 -0.39997,17.67436 2.04343,37.71747 -3.61754,51.00729 -26.059857,-150.681622 -5.78806,-0.7235 -5.78806,-0.7235 z"
+           id="path32-9"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.342836"
+           d="m 114.2803,227.43419 -7.20114,1.55607 c 0,0 54.50271,-141.607242 7.20114,-1.55607 z"
+           id="path33-0" />
+      </g>
+      <path
+         id="lpe_path-effect33-2"
+         class="powerclip"
+         d="M 39.495739,96.652874 H 163.08648 V 220.24361 H 39.495739 Z M 100.92936,234.41656 c 3.1352,-16.76126 6.2704,-33.52253 9.4056,-50.28379 -0.39997,17.67436 2.04343,37.71747 -3.61754,51.00729 -26.059857,-150.681622 -5.78806,-0.7235 -5.78806,-0.7235 z m 13.35094,-6.98237 c 47.30157,-140.051172 -7.20114,1.55607 -7.20114,1.55607 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect33-3"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19-9">
+      <path
+         style="display:none;fill:#000000;fill-opacity:1;stroke-width:0.213151"
+         d="m 76.256428,236.58709 5.861719,-0.46367 c 0,0 -16.119726,-117.77029 -5.861719,0.46367 z"
+         id="path19-9" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect19-0"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10-3">
+      <path
+         style="display:none;fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         d="m 80.660904,233.69304 c -0.175371,-42.26628 2.104467,-54.62484 2.104467,-54.62484 l 3.33207,54.62484 z"
+         id="path10-9"
+         sodipodi:nodetypes="cccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect10-6"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect10-6">
+      <path
+         style="display:block;fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         d="m 80.660904,233.69304 c -0.175371,-42.26628 2.104467,-54.62484 2.104467,-54.62484 l 3.33207,54.62484 z"
+         id="path35"
+         sodipodi:nodetypes="cccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect19-0">
+      <path
+         style="display:block;fill:#000000;fill-opacity:1;stroke-width:0.213151"
+         d="m 76.256428,236.58709 5.861719,-0.46367 c 0,0 -16.119726,-117.77029 -5.861719,0.46367 z"
+         id="path36" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect33-3">
+      <g
+         id="g38"
+         style="display:block">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           d="m 100.92936,234.41656 c 3.1352,-16.76126 6.2704,-33.52253 9.4056,-50.28379 -0.39997,17.67436 2.04343,37.71747 -3.61754,51.00729 -26.059857,-150.681622 -5.78806,-0.7235 -5.78806,-0.7235 z"
+           id="path37"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.342836"
+           d="m 114.2803,227.43419 -7.20114,1.55607 c 0,0 54.50271,-141.607242 7.20114,-1.55607 z"
+           id="path38" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32-1">
+      <g
+         id="g33-72"
+         style="display:block">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           d="m 100.92936,234.41656 c 3.1352,-16.76126 6.2704,-33.52253 9.4056,-50.28379 -0.39997,17.67436 2.04343,37.71747 -3.61754,51.00729 -26.059857,-150.681622 -5.78806,-0.7235 -5.78806,-0.7235 z"
+           id="path32-3"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.342836"
+           d="m 114.2803,227.43419 -7.20114,1.55607 c 0,0 54.50271,-141.607242 7.20114,-1.55607 z"
+           id="path33-6" />
+      </g>
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect33-5"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19-8">
+      <path
+         style="display:block;fill:#000000;fill-opacity:1;stroke-width:0.213151"
+         d="m 76.256428,236.58709 5.861719,-0.46367 c 0,0 -16.119726,-117.77029 -5.861719,0.46367 z"
+         id="path19-1" />
+      <path
+         id="lpe_path-effect19-4"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.213151"
+         class="powerclip"
+         d="M 39.495739,96.652874 H 163.08648 V 220.24361 H 39.495739 Z m 36.760689,139.934216 5.861719,-0.46367 c 0,0 -16.119726,-117.77029 -5.861719,0.46367 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect19-7"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10-1">
+      <path
+         style="display:block;fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         d="m 80.660904,233.69304 c -0.175371,-42.26628 2.104467,-54.62484 2.104467,-54.62484 l 3.33207,54.62484 z"
+         id="path10-3"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="lpe_path-effect10-84"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         class="powerclip"
+         d="M 39.495739,96.652874 H 163.08648 V 220.24361 H 39.495739 Z M 80.660904,233.69304 h 5.436537 l -3.33207,-54.62484 c 0,0 -2.279838,12.35856 -2.104467,54.62484 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect10-8"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10-5">
+      <path
+         style="display:none;fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         d="m 80.660904,233.69304 c -0.175371,-42.26628 2.104467,-54.62484 2.104467,-54.62484 l 3.33207,54.62484 z"
+         id="path10-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="lpe_path-effect10-3"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.152275"
+         class="powerclip"
+         d="M 39.495739,96.652874 H 163.08648 V 220.24361 H 39.495739 Z M 80.660904,233.69304 h 5.436537 l -3.33207,-54.62484 c 0,0 -2.279838,12.35856 -2.104467,54.62484 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect10-2"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialogue if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44">
+      <path
+         id="path44"
+         style="fill:#000000;fill-opacity:0.327869;stroke-width:13.6641"
+         d="M 0.20467609,56.79536 C 31.88375,35.584699 105.69608,78.784651 135.29598,50.28379 l -8.52502,44.530169 c -68.728788,10.361621 -42.122531,-20.901179 -135.4530549,0 z"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44-0">
+      <path
+         id="path44-6"
+         style="fill:#000000;fill-opacity:0.327869;stroke-width:13.6641"
+         d="M 0.20467609,56.79536 C 31.88375,35.584699 105.69608,78.784651 135.29598,50.28379 l -8.52502,44.530169 c -68.728788,10.361621 -42.122531,-20.901179 -135.4530549,0 z"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44-06">
+      <path
+         id="path44-0"
+         style="fill:#000000;fill-opacity:0.327869;stroke-width:13.6641"
+         d="M 0.20467609,56.79536 C 31.88375,35.584699 105.69608,78.784651 135.29598,50.28379 l -8.52502,44.530169 c -68.728788,10.361621 -42.122531,-20.901179 -135.4530549,0 z"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath45">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'.New York';-inkscape-font-specification:'.New York Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="105.27807"
+         y="99.2117"
+         id="text45"><tspan
+           sodipodi:role="line"
+           id="tspan45"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'.New York';-inkscape-font-specification:'.New York Bold';fill:#ff0000;stroke-width:0.264583"
+           x="105.27807"
+           y="99.2117">D</tspan></text>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Slānis 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.99728,-56.60908)">
+    <g
+       id="g35"
+       inkscape:groupmode="layer" />
+    <g
+       id="g46"
+       transform="matrix(1.5049385,0,0,1.5049385,-46.966071,-96.372244)">
+      <g
+         id="g34">
+        <g
+           id="g32"
+           clip-path="url(#clipPath32)"
+           inkscape:path-effect="#path-effect33">
+          <g
+             id="g19"
+             clip-path="url(#clipPath19)"
+             inkscape:path-effect="#path-effect19">
+            <path
+               style="display:inline;fill:#425e37;fill-opacity:1;stroke-width:0.264583"
+               id="path1"
+               clip-path="url(#clipPath10)"
+               sodipodi:type="arc"
+               sodipodi:cx="101.29111"
+               sodipodi:cy="158.44824"
+               sodipodi:rx="56.795368"
+               sodipodi:ry="56.795368"
+               d="m 158.08648,158.44824 a 56.795368,56.795368 0 0 1 -56.79537,56.79537 56.795368,56.795368 0 0 1 -56.795371,-56.79537 56.795368,56.795368 0 0 1 56.795371,-56.79537 56.795368,56.795368 0 0 1 56.79537,56.79537 z"
+               inkscape:path-effect="#path-effect10" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g40"
+         style="fill:#9ebf8e;fill-opacity:1"
+         inkscape:label="g40">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'.New York';-inkscape-font-specification:'.New York Bold';fill:#9ebf8e;fill-opacity:1;stroke-width:0.264583"
+           x="62.22168"
+           y="171.10962"
+           id="text13"><tspan
+             sodipodi:role="line"
+             id="tspan13"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'.New York';-inkscape-font-specification:'.New York Bold';fill:#9ebf8e;fill-opacity:1;stroke-width:0.264583"
+             x="62.22168"
+             y="171.10962">D</tspan></text>
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#9ebf8e;stroke-width:2.746;stroke-dasharray:10.984, 2.746;stroke-dashoffset:0;stroke-opacity:1"
+           id="path14"
+           cx="101.83374"
+           cy="132.94458"
+           r="4.4374366" />
+      </g>
+      <circle
+         style="display:inline;fill:#283921;fill-opacity:1;stroke-width:0.264583"
+         id="path1-8"
+         clip-path="url(#clipPath44)"
+         cx="63.942535"
+         cy="57.627731"
+         r="56.795368"
+         transform="translate(37.352224,100.80058)" />
+      <g
+         id="g45"
+         clip-path="url(#clipPath45)"
+         transform="translate(-43.163219,73.947787)"
+         style="fill:#f9f9f9">
+        <circle
+           style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583"
+           id="path1-8-0"
+           clip-path="url(#clipPath44-06)"
+           transform="translate(80.429372,29.055249)"
+           r="56.795368"
+           cy="57.627731"
+           cx="63.942535" />
+      </g>
+    </g>
+  </g>
+</svg>
