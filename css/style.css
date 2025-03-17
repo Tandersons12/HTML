@@ -1,0 +1,26 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: black;
+    text-align: left;
+    background-color: #D3D3D3;
+}
+
+.manss {
+    color: black;
+    text-align: left;
+}
+
+.pad {
+    padding: 25px;
+}
+
+.pad2 {
+    padding: 40px;
+}
+
+h2 {
+    padding-left: 35px;
+    color: white;
+    background-color: #808080;
+    margin-top: 20px;
+} 
