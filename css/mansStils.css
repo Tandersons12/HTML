@@ -1,15 +1,13 @@
 body {
     font-family: "Lato", sans-serif;
-    color: black;
+    color: white;
     text-align: left;
-    background-color: #D3D3D3;
-}
-.wallpaper {
     background-image: url('../images/marble.jpg');
     background-size: cover;
+   # background-color: #D3D3D3;
 }
 .manss {
-    color: black;
+    color: white;
     text-align: left;
 }
 
@@ -24,6 +22,6 @@ body {
 h2 {
     padding-left: 35px;
     color: white;
-    background-color: #808080;
+    background-color: #000000;
     margin-top: 35px;
 } 
