@@ -5,7 +5,8 @@ body {
     background-color: #D3D3D3;
 }
 .wallpaper {
-  background-image: src="images/marble.jpg";
+    background-image: url('../images/marble.jpg');
+    background-size: cover;
 }
 .manss {
     color: black;
