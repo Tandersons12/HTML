@@ -1,7 +1,7 @@
 <!DOCTYPE html>
     <html lang="en">
     <head>
-    <title>Mans Portfolio</title>
+    <title>Datorikas portfolio</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -22,14 +22,15 @@
           <div class="w3-dropdown-content w3-bar-block w3-card-4">
             <a href="#Rastrgr" class="w3-bar-item w3-button">Rastrgrafika</a>
             <a href="#Vektorgr" class="w3-bar-item w3-button">Vektorgrafika</a>
-            <a href="#Montaza" class="w3-bar-item w3-button">Video montāža</a>
           </div>
         </div>
-
+      
+        <a href="#3dmodel" class="w3-bar-item w3-button w3-padding-large w3-hide-small">3D modelēšana</a>
+        <a href="#Montaza" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Video montāža</a>
         <a href="#Tekstaapstr" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Teksta apstrāde</a>
         <a href="#Izklajlap" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Izklājlapas</a>
         <a href="#Programm" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Programmēšana</a>
-          <a href="otrais.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="_self">Kā samazināt risku zaudēt datus</a>
+          <a href="otrais.html#risks" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="_self">Kā samazināt risku zaudēt datus</a>
           
       </div>
     </div>
@@ -37,23 +38,23 @@
     <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
     <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
     <a href="#Atteluapstr" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Attēlu apstrāde</a>
+      <a href="#3dmodel" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">3D modelēšana</a>
+      <a href="#Montaza" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Video montāža</a>
       <a href="#Tekstaapstr" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Teksta apstrāde</a>
       <a href="#Izklajlap" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Izklājlapas</a>
       <a href="#Programm" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Programmēšana</a>
-         <a href="otrais.html" class="w3-bar-item w3-button w3-padding-large" target="_self">Kā samazināt risku zaudēt datus</a>
+         <a href="otrais.html#risks" class="w3-bar-item w3-button w3-padding-large" target="_self">Kā samazināt risku zaudēt datus</a>
     </div>
 
     <!-- Page content -->
     <div class="w3-content" style="max-width:2000px;margin-top:46px">
      <!-- The Band Section -->
       <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <div class="manss">
-        <div class="wallpaper">
+    <div class="manss">      
     <h2 class="w3-wide">Mans datorikas portfolio</h2>
     <p class="w3-opacity"><i>Tomass Andersons 10.e</i></p>
-        </div>
+    
     <div class="pad" id="Atteluapstr">
-
     <h2>Attēlu apstrāde</h2>
 
     <div class="pad2" id="Rastrgr">
@@ -69,20 +70,29 @@
     <ul>
     <li>Inkscape izmantošana</li>
     <img src="images/logo.svg" alt="logo" style="width: 95%">
+    </ul>
+    </div>
+
+    <div class="pad" id="3dmodel">
+    <h2>3D modelēšana</h2>
+    <ul>
     <li>3d modelēsana Tinkercadā</li>
     <img src="images/gabalins.png" alt="3d gabaliņš" style="width: 95%">
     </ul>
     </div>
 
-    <div class="pad2" id="Montaza">
-    <h3>Video montāža</h3>
+    <div class="pad" id="Montaza">
+    <h2>Video montāža</h2>
+    <ul>
+    <li>Video veidošana Clipchamp aplikācijā</li>
 <video width=95% controls>
   <source src="images/Video_Andersons480.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+    </ul>
     </div>
 
-    </div>
+
     <div class="pad" id="Tekstaapstr">
     <h2>Teksta apstrāde</h2>
     <ul>
